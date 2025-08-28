@@ -75,7 +75,7 @@ def implement_set_api_key(api_key):
         api_key (str): Your Groq API key
     """
     # TODO: Your implementation here
-    os.environ["GROQ_API_KEY"] = "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"
+    os.environ["GROQ_API_KEY"] = "gsk_**"
     pass
 
 
