@@ -34,7 +34,7 @@ def ice_break_with(name: str):
 
 if __name__ == '__main__':
     load_dotenv()
-    ice_break_with(name="devashish singha roy master in applied ai LTU TCS stockholm linkedin")
+    ice_break_with(name="Devashish Singha Roy, Master's in applied ai, LTU, TCS, AWS certified solutions architect, stockholm, linkedin")
     #print('hello LangChain!')
     #print(os.environ['OPENAI_API_KEY'])
     
